@@ -13,5 +13,6 @@ counter = 0
    return badges
 end
 
-def assingn_rooms
+def assign_rooms(array)
+room_assignments = []
 end
