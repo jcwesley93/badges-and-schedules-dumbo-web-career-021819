@@ -10,5 +10,7 @@ counter = 0
     badges << name
     counter += 1
   end
-  badges
+   return badges
 end
+
+def assin
