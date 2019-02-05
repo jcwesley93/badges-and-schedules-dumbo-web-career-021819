@@ -14,5 +14,9 @@ counter = 0
 end
 
 def assign_rooms(array)
-room_assignments = []
+  room_assignments = []
+  array.each_with_index do |name, index|
+    indexplusone = index + 1
+
+
 end
