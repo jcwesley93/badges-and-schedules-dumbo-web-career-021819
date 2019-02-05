@@ -4,11 +4,8 @@ end
 
 def batch_badge_creator(array)
 badges = []
-counter = 0
   array.each do |name|
-    return "Hello, my name is #{name}."
-    badges << name
-    counter += 1
+    badges << ("Hello, my name is #{name}.")
   end
    return badges
 end
