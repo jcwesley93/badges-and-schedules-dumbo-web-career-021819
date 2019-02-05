@@ -7,7 +7,7 @@ badges = []
 counter = 0
   array.each do |name|
     return "Hello, my name is #{name}."
-    badges.push(name)
+    badges << name
     counter += 1
   end
   badges
