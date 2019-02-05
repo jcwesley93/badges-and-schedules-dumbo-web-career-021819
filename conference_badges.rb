@@ -13,4 +13,5 @@ counter = 0
    return badges
 end
 
-def assin
+def assingn_rooms
+end
