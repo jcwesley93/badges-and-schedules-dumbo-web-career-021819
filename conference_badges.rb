@@ -8,4 +8,5 @@ badges = []
     return "Hello, my name is #{name}."
     badges << name
   end
+  badges
 end
